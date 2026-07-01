@@ -15,7 +15,7 @@ Security-focused homelab builder. I design and operate hardened self-hosted infr
 | --- | --- |
 | [secure-vps-homelab](https://github.com/Jager-29/secure-vps-homelab) | Configuration and documentation for deploying a secure VPS and homelab environment. Focuses on server hardening, network security, and self-hosted services management. |
 | [securehomelab](https://github.com/Jager-29/securehomelab) | Containerized homelab stack: CrowdSec, Cowrie honeypot, Nginx Proxy Manager, Prometheus, Grafana, Metabase threat intel |
-| [syswarden-homelab](https://github.com/Jager-29/syswarden-homelab) | SysWarden v3.10.2 HIPS deployed on ARM64 with manual Go compilation, nftables L2/L3 defense, full audit 7/7 PASS |
+| [syswarden-homelab](https://github.com/Jager-29/syswarden-homelab) | SysWarden v3.10.2 HIPS deployed on ARM64 with manual Go compilation, nftables L2/L3 defense, full audit |
 
 ## Stack
 
